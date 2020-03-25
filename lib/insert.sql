@@ -6,4 +6,5 @@ VALUES
   ("Sergeant Brown"),
   ("Melissa"),
   ("Grinch"),
-  ("Wendy")
+  ("Wendy"),
+  ("unnamed")
