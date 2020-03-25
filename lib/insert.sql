@@ -7,4 +7,4 @@ VALUES
   ("Melissa"),
   ("Grinch"),
   ("Wendy"),
-  ("unnamed")
+  (NULL)
